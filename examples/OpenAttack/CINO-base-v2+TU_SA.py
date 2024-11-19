@@ -19,6 +19,7 @@ def main():
     print("Loading Attacker...")
     # attacker = open_attack.attackers.TSAttacker(lang="tibetan")
     # attacker = open_attack.attackers.TSTricker_s(lang="tibetan")
+    
     # attacker = open_attack.attackers.TSTricker_w(lang="tibetan")
     # attacker = open_attack.attackers.TSCheater_s(lang="tibetan")
     # attacker = open_attack.attackers.TSCheater_w(lang="tibetan")

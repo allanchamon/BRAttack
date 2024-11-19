@@ -1,0 +1,449 @@
+Sample	1
+Succeed	False
+Running Time	0.003186941146850586
+Query Exceeded	False
+Victim Model Queries	168
+Sample	1
+Succeed	False
+Running Time	0.016465425491333008
+Query Exceeded	False
+Victim Model Queries	168
+Sample	1
+Succeed	False
+Running Time	0.008835077285766602
+Query Exceeded	False
+Victim Model Queries	21
+Orig	que coisa linda O programa estava mostrando uma familia que adotou um adolescente de NUMBER anos que amor !	2	99.9606192111969
+---
+Sample	2
+Succeed	False
+Running Time	0.0059986114501953125
+Query Exceeded	False
+Victim Model Queries	10
+Orig	por mais com as irmãs galvão adorei elas	2	99.96095299720764
+---
+Sample	3
+Succeed	False
+Running Time	0.005652189254760742
+Query Exceeded	False
+Victim Model Queries	22
+Sample	1
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	21
+Orig	que coisa linda O programa estava mostrando uma familia que adotou um adolescente de NUMBER anos que amor !	2	99.9606192111969
+---
+Sample	2
+Succeed	False
+Running Time	0.0010290145874023438
+Query Exceeded	False
+Victim Model Queries	10
+Orig	por mais com as irmãs galvão adorei elas	2	99.96095299720764
+---
+Sample	3
+Succeed	False
+Running Time	0.004000186920166016
+Query Exceeded	False
+Victim Model Queries	18
+Orig	mr CATRA USERNAME lançando sua nova música PPK CHORA no USERNAME k k k   MrCatra PpkChora	1	99.97277855873108
+---
+Sample	4
+Succeed	False
+Running Time	0.0016095638275146484
+Query Exceeded	False
+Victim Model Queries	10
+Orig	quem viu aquela lutadora modela barbuda tatuada MasterChefBR	1	99.98408555984497
+---
+Sample	5
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	18
+Orig	tô passada com esse cara quanta merda pode sair da boca de alguém em alguns minutos	0	99.99239444732666
+---
+Sample	6
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	6
+Orig	cibele arrasou humilhou !	2	99.96030926704407
+---
+Sample	7
+Succeed	False
+Running Time	0.0015053749084472656
+Query Exceeded	False
+Victim Model Queries	9
+Orig	em minas sacolé é chup chup videoshowaovivo	1	98.9641010761261
+---
+Sample	8
+Succeed	False
+Running Time	0.002003192901611328
+Query Exceeded	False
+Victim Model Queries	21
+Orig	meu prato masterchef de sardinha enlatada seria jogar ela no prato cozinhar arroz e ainda colocar batata palha junto	1	99.74551796913147
+---
+Sample	9
+Succeed	False
+Running Time	0.008028984069824219
+Query Exceeded	False
+Victim Model Queries	5
+Orig	coitada da namorada	0	99.9926209449768
+---
+Sample	10
+Succeed	False
+Running Time	0.0011053085327148438
+Query Exceeded	False
+Victim Model Queries	18
+Orig	esse japa não entendi porra nenhuma de orquídeas essa não é catleya walkiriana é uma nobilior	0	99.99313354492188
+---
+Sample	11
+Succeed	False
+Running Time	0.0031080245971679688
+Query Exceeded	False
+Victim Model Queries	12
+Orig	A cearamirinense mais famosa do brasil no Edecasa USERNAME  linda	2	99.95802044868469
+---
+Sample	12
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	23
+Orig	nào sei vocês mas quero USERNAME no powercoupleBrasil com a USERNAME e num reality tipo dr rey até no tá bom	2	99.95912909507751
+---
+Sample	13
+Succeed	False
+Running Time	0.0010008811950683594
+Query Exceeded	False
+Victim Model Queries	11
+Orig	tem q passar essa entrevista em telões nas praças	1	99.9705970287323
+---
+Sample	14
+Succeed	False
+Running Time	0.0010006427764892578
+Query Exceeded	False
+Victim Model Queries	13
+Orig	estou todo derretido com o amor do serginho e thomas no	2	99.95960593223572
+---
+Sample	15
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	10
+Orig	fatima bernardes sobre o sotaque hahaha coerência profissional	1	99.97888207435608
+---
+Sample	16
+Succeed	False
+Running Time	0.0019528865814208984
+Query Exceeded	False
+Victim Model Queries	7
+Orig	augusto cury no IMPERDÍVEL !	2	99.96117949485779
+---
+Sample	17
+Succeed	False
+Running Time	0.010010004043579102
+Query Exceeded	False
+Victim Model Queries	12
+Orig	sophia super sensual com essa roupa ! ! ! !	2	99.9599039554596
+---
+Sample	18
+Succeed	False
+Running Time	0.0019648075103759766
+Query Exceeded	False
+Victim Model Queries	18
+Orig	caraaa não dormi ainda por causa desse cara padre fábio de melo   quanta sabedoria ! conversacombial	2	99.96128678321838
+---
+Sample	19
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	12
+Orig	A MIRIAM E O FOGO DO PROGRAMA ELA E PROTAGONISTA	1	99.98348951339722
+---
+Sample	20
+Succeed	False
+Running Time	0.0029997825622558594
+Query Exceeded	False
+Victim Model Queries	15
+Orig	depois eu vou assistir espero que ela cante a nova música Encontro SandyNoEncontro	1	99.98379945755005
+---
+Sample	21
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	15
+Orig	eu aqui queimando o arroz e o pessoal do colocando NUMBER temperos kkk	1	99.97075200080872
+---
+Sample	22
+Succeed	False
+Running Time	0.0030617713928222656
+Query Exceeded	False
+Victim Model Queries	6
+Orig	ai mds é agora	1	99.44760203361511
+---
+Sample	23
+Succeed	False
+Running Time	0.0010004043579101562
+Query Exceeded	False
+Victim Model Queries	17
+Orig	aí vc fica até NUMBER assistindo e acorda cedo pra ir trabalhar parecendo um zumbi	0	99.94370341300964
+---
+Sample	24
+Succeed	False
+Running Time	0.002000093460083008
+Query Exceeded	False
+Victim Model Queries	10
+Orig	fico assistindo dá muuuita vontade de comer rs	2	99.95977282524109
+---
+Sample	25
+Succeed	False
+Running Time	0.0019986629486083984
+Query Exceeded	False
+Victim Model Queries	21
+Orig	imagina que insuportável ter de dar de comer pra uma gente que calcula CADA CALORIA que come jesus MasterChefBR	0	99.99308586120605
+---
+Sample	26
+Succeed	False
+Running Time	0.004998683929443359
+Query Exceeded	False
+Victim Model Queries	20
+Orig	começaaa a hora de procurar algo na geladeira pra comer e acompanhar este show na TV ! !	2	99.96039271354675
+---
+Sample	27
+Succeed	False
+Running Time	0.0030188560485839844
+Query Exceeded	False
+Victim Model Queries	19
+Orig	ana luiza vai ser eliminada do masterchef pois foi descoberto que ela já trabalhou como cozinheira profissional	1	99.96427297592163
+---
+Sample	28
+Succeed	False
+Running Time	0.008537769317626953
+Query Exceeded	False
+Victim Model Queries	16
+Orig	olá USERNAME gostaria da participação do fiuk em algum quadro no USERNAME . obrigada	1	99.9834418296814
+---
+Sample	29
+Succeed	False
+Running Time	0.002814054489135742
+Query Exceeded	False
+Victim Model Queries	10
+Orig	ana luíza me representou agr léo pessimista mesmo	2	99.9227523803711
+---
+Sample	30
+Succeed	False
+Running Time	0.0010004043579101562
+Query Exceeded	False
+Victim Model Queries	17
+Orig	vivendo e aprendendo enfrentar os medos e procurar ajuda é sempre a melhor maneira ConversaComBial	2	99.95880722999573
+---
+Sample	31
+Succeed	False
+Running Time	0.002954721450805664
+Query Exceeded	False
+Victim Model Queries	12
+Orig	essa modinha do unicórnio vem lá da china né MaisVoce	1	99.97881054878235
+---
+Sample	32
+Succeed	False
+Running Time	0.005757808685302734
+Query Exceeded	False
+Victim Model Queries	18
+Orig	A fátima já tinha deixado claro outras em seu programa que assistia o JN ahaha VideoShowAoVivo	1	99.97853636741638
+---
+Sample	33
+Succeed	False
+Running Time	0.0015063285827636719
+Query Exceeded	False
+Victim Model Queries	8
+Orig	CharlieHunnam no foi épico kkkk talkshow	0	99.97417330741882
+---
+Sample	34
+Succeed	False
+Running Time	0.0029997825622558594
+Query Exceeded	False
+Victim Model Queries	15
+Orig	o prato do vitor B ficou ruim MEU DEUS TO PASSANDO MAL NAAAOOO	0	99.99324083328247
+---
+Sample	35
+Succeed	False
+Running Time	0.0008962154388427734
+Query Exceeded	False
+Victim Model Queries	20
+Orig	drauzio varella mostrando como funciona a verdadeira dinâmica na cadeia no brasil é bom que todos assistam ConversaComBial	2	99.95973706245422
+---
+Sample	36
+Succeed	False
+Running Time	0.0009996891021728516
+Query Exceeded	False
+Victim Model Queries	8
+Orig	VANESSA DA MATA MELHOR PESSOA AltasHoras	2	99.96064305305481
+---
+Sample	37
+Succeed	False
+Running Time	0.0027360916137695312
+Query Exceeded	False
+Victim Model Queries	11
+Orig	FIQUEI MUITO NERVOSA ACHEI Q MINHA YUKO IA SAIR	0	99.56992864608765
+---
+Sample	38
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	9
+Orig	irmãs galvão amores de pessoas Encontro IrmãsGalvao	1	99.98213648796082
+---
+Sample	39
+Succeed	False
+Running Time	0.0009992122650146484
+Query Exceeded	False
+Victim Model Queries	21
+Orig	joão vicente no encontro hoje e eu vou estar aonde no colégio fazendo prova de matemática isso mesmo Encontro	1	99.98421669006348
+---
+Sample	40
+Succeed	False
+Running Time	0.0008347034454345703
+Query Exceeded	False
+Victim Model Queries	22
+Orig	esse programa é demais com esses dois ao vivo vocês podiam mostrar os bastidores DO VIDEO SHOW NÉ CURIOSO KKK	2	99.95831847190857
+---
+Sample	41
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	17
+Orig	tantos embustes pra sair do e tiram justamente o MasterCrush pfvr alguém repesca o USERNAME	0	99.99305009841919
+---
+Sample	42
+Succeed	False
+Running Time	0.002369403839111328
+Query Exceeded	False
+Victim Model Queries	10
+Orig	adoro a voz do pr fabio de melo	2	99.96094107627869
+---
+Sample	43
+Succeed	False
+Running Time	0.0019986629486083984
+Query Exceeded	False
+Victim Model Queries	16
+Orig	USERNAME começou junto com o jogo da liberta e gsw x spurs que terça	2	99.96008276939392
+---
+Sample	44
+Succeed	False
+Running Time	0.0025267601013183594
+Query Exceeded	False
+Victim Model Queries	11
+Orig	eles roubam a cena na novela muito bom MaisVoce	2	99.96017813682556
+---
+Sample	45
+Succeed	False
+Running Time	0.0025343894958496094
+Query Exceeded	False
+Victim Model Queries	12
+Orig	tchau victor B É obvio que vc vai sair MasterChefBR	1	99.89455342292786
+---
+Sample	46
+Succeed	False
+Running Time	0.0012445449829101562
+Query Exceeded	False
+Victim Model Queries	24
+Orig	está aqui ensinando a passar roupas e os comentários da apresentadora são  para fazer no terno do marido   na camisa do namorado	1	99.97664093971252
+---
+Sample	47
+Succeed	False
+Running Time	0.0010001659393310547
+Query Exceeded	False
+Victim Model Queries	9
+Orig	déborah a bixa é lacradora mesmo MasterChefBR	2	99.96176958084106
+---
+Sample	48
+Succeed	False
+Running Time	0.002998828887939453
+Query Exceeded	False
+Victim Model Queries	21
+Orig	É o tipo de assunto sério que a nossa mídia esquerdista tem medo de falar ou fala besteira parabéns	0	99.9922513961792
+---
+Sample	49
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	8
+Orig	eu gostaria de ter um hj	1	99.96024966239929
+---
+Sample	50
+Succeed	False
+Running Time	0.002541780471801758
+Query Exceeded	False
+Victim Model Queries	4
+Orig	hoje tem	1	99.28901195526123
+---
+Sample	51
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	12
+Orig	USERNAME eu espero pelas terçasfeiras só por causa do sim	1	99.9829649925232
+---
+Sample	52
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	9
+Orig	eu também prefeito gente mais velha kkk	1	99.98422861099243
+---
+Sample	53
+Succeed	False
+Running Time	0.0019922256469726562
+Query Exceeded	False
+Victim Model Queries	19
+Orig	excelente a participação do USERNAME ! USERNAME muito bom falar sobre o assunto armas de fogo CidadãoArmadoJá	2	99.96029734611511
+---
+Sample	54
+Succeed	False
+Running Time	0.0010004043579101562
+Query Exceeded	False
+Victim Model Queries	13
+Orig	O cara do system of a down agora toca violino kkkk	1	99.97429251670837
+---
+Sample	55
+Succeed	False
+Running Time	0.0010280609130859375
+Query Exceeded	False
+Victim Model Queries	11
+Orig	A direção do video show é a melhor cara	2	99.96129870414734
+---
+Sample	56
+Succeed	False
+Running Time	0.004000663757324219
+Query Exceeded	False
+Victim Model Queries	25
+Orig	gente o cabelo e a maquiagem da ana maria braga estão indo para alguma festa que o resto do corpo não forão convidados	0	99.97866749763489
+---
+Sample	57
+Succeed	False
+Running Time	0.0
+Query Exceeded	False
+Victim Model Queries	18
+Orig	ai eu só sei que perdi o programa quando entro no twitter e vejo o top	0	99.99263286590576
+---
+Sample	58
+Succeed	False
+Running Time	0.0010001659393310547
+Query Exceeded	False
+Victim Model Queries	9
+Orig	ja que é pra tombar tombei VideoShowAoVivo	2	99.94637370109558
+---
+Sample	59
+Succeed	False
+Running Time	0.0031821727752685547
+Query Exceeded	False
+Victim Model Queries	15
+Orig	A maior e melhor cantora que você respeita USERNAME no USERNAME SandyLeah SandynoEncontro	2	99.96116757392883
+---
+Sample	60
+Succeed	False
+Running Time	0.001999378204345703
+Query Exceeded	False
+Victim Model Queries	15
+Orig	com esse rei arthur brincaria de princesa NUMBER 4hrs sem reclamar meuuu deus	2	99.95996356010437
+---

@@ -2,8 +2,7 @@ from datasets import GeneratorBasedBuilder
 from datasets import DatasetInfo, Features, Value, ClassLabel
 from datasets import DownloadManager, SplitGenerator, Split
 
-
-class TUSA(GeneratorBasedBuilder):
+class TTSBR(GeneratorBasedBuilder):
     def _info(self):
         return DatasetInfo(
             features=Features({
@@ -17,21 +16,22 @@ class TUSA(GeneratorBasedBuilder):
             SplitGenerator(
                 name=Split.TRAIN,
                 gen_kwargs={
-                    "filepath": "data/Dataset.TU_SA/train.txt"
+                    "filepath": "data/Dataset.TTSBR/train.txt"
                 }
             ),
             SplitGenerator(
                 name=Split.VALIDATION,
                 gen_kwargs={
-                    "filepath": "data/Dataset.TU_SA/validation.txt"
+                    "filepath": "data/Dataset.TTSBR/validation.txt"
                 }
             ),
             SplitGenerator(
                 name=Split.TEST,
                 gen_kwargs={
-                    "filepath": "data/Dataset.TU_SA/test.txt"
+                    "filepath": "data/Dataset.TTSBR/test.txt"
                 }
             )
+
         ]
 
     def _generate_examples(self, filepath):
