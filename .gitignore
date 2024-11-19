@@ -23,6 +23,7 @@ __pycache__
 !/data/Dataset.TU_SA
 !/data/Dataset.TNCC-title
 !/data/Dataset.TNCC-document
+!/data/Dataset.TTSBR
 
 # Victim
 !/data/Victim.BERT.Tibetan-BERT+TU_SA/README.md
