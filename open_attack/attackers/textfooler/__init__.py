@@ -24,8 +24,8 @@ from OpenAttack.text_process.tokenizer import Tokenizer
 from ...text_process.tokenizer import get_default_tokenizer
 
 #from ...text_process.tokenizer import Tokenizer, get_default_tokenizer
-from OpenAttack.attack_assist.substitute.word import WordSubstitute, get_default_substitute
-#from ...attack_assist.substitute.word import WordSubstitute, get_default_substitute
+from OpenAttack.attack_assist.substitute.word import WordSubstitute
+from ...attack_assist.substitute.word import get_default_substitute
 # modification end
 
 # modification begin
@@ -75,9 +75,8 @@ class TextFoolerAttacker(ClassificationAttacker):
         lst = []
         if tokenizer is not None:
             lst.append(tokenizer)
-        # modification begin            
-        #if substitute is not None:
-        #    lst.append(substitute)
+        if substitute is not None:
+            lst.append(substitute)
         if len(lst) > 0:
             self.__lang_tag = get_language(lst)
         else:
@@ -85,10 +84,9 @@ class TextFoolerAttacker(ClassificationAttacker):
             if self.__lang_tag is None:
                 raise ValueError("Unknown language `%s`" % lang)
         
-        # modification begin
-        #if substitute is None:
-        #    substitute = get_default_substitute(self.__lang_tag)
-        #self.substitute = substitute
+        if substitute is None:
+            substitute = get_default_substitute(self.__lang_tag)
+        self.substitute = substitute
 
         if tokenizer is None:
             tokenizer = get_default_tokenizer(self.__lang_tag)

@@ -7,6 +7,9 @@ __pycache__
 # data
 /data/*
 
+# virtual env
+/.venv/
+
 # AttackAssist
 !/data/AttackAssist.TibetanWord2Vec
 !/data/AttackAssist.Tibetan-BERT/README.md
@@ -38,3 +41,4 @@ __pycache__
 !/data/Victim.XLM-RoBERTa.CINO-large-v2+TU_SA/README.md
 !/data/Victim.XLM-RoBERTa.CINO-large-v2+TNCC-title/README.md
 !/data/Victim.XLM-RoBERTa.CINO-large-v2+TNCC-document/README.md
+!/data/Victim.BERTimbau+TTSBR/README.md
